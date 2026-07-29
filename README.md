@@ -1,4 +1,4 @@
-# renovate-repro-mise-cargo-pin
+# 44953
 
 Minimal reproduction for the Renovate `mise` manager pinning `cargo:` backend tools with Cargo requirement syntax (`=x.y.z`), which mise cannot resolve.
 
@@ -43,4 +43,4 @@ No pin PR is created, because `0.1.12` is already an exact version for mise. Lat
 
 ## Link to the Renovate issue or Discussion
 
-To be added.
+https://github.com/renovatebot/renovate/discussions/44953
